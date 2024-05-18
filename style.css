@@ -1,0 +1,157 @@
+body {
+    font-family: sans-serif;
+    background-color: #A49B9B;
+}
+header{
+    background-color: #EEE4BE;
+}
+h1 {
+    text-align: center; 
+}
+.l {
+    font-size: 40px;
+}
+.n {
+    font-size: 40px;
+    margin: 30px;
+    margin-left: 90px;
+}
+
+h1 {
+	margin-top: 100px;
+	font-weight: 100;
+}
+
+p {
+	font-weight: 300;
+    font-size: 20px;
+}
+
+
+.op:focus{
+    
+}
+nav {
+    background-color: #D34343;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px, 10px, 10px, 10px;
+}
+a {
+    color: black;
+}
+.a {
+   background-color: gold;
+}
+.a:hover {
+    margin: 50px;
+    transform: scale(1);
+    transition: 3s all; 
+    font-size: larger;
+}
+span {
+    background-color: purple;
+    color:gold;
+}
+.s {
+    text-align: center;
+    background-image: linear-gradient(to right, yellow, green);
+}
+article {
+    display: flex; 
+}
+.o {
+     text-align: center;
+   background-image: linear-gradient(to right, darkred, red);  
+}
+.r {
+         text-align: center;
+    background-image: linear-gradient(to right, yellow, blue);
+}
+p {
+    
+}
+.momo {
+    display: flex;
+}
+.aaa:hover {
+    margin: 50px;
+    transform: scale(1);
+    transition: 3s all; 
+    font-size: large;
+}
+td:hover {
+    font-size: 22px;
+}
+.aaa:hover {
+    background-color: yellow;
+}
+.ooo:hover {
+     margin: 50px;
+    transform: scale(1);
+    transition: 3s all; 
+    font-size: large;
+}
+.ooo:hover {
+    background-color:darkmagenta;
+}
+.ggg:hover {
+    margin: 50px;
+    transform: scale(1);
+    transition: 3s all; 
+    font-size: large;
+}
+.ggg:hover {
+    background-color: paleturquoise;
+
+}
+.uuu {
+    display: inline-block;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: #00a67c;
+    font-family: sans-serif;
+    text-align: center;
+}
+.uuu:hover{
+    background-color: orange;
+    transition: 3s linear;
+    width: 150px;
+    height: 150px;
+     box-shadow: 3px 5px 10px purple;
+} 
+.p:hover {
+    margin-top: 43px;
+    transition: 3s ease-in;
+}
+.popa {
+    display: inline-block;
+    border: 7px solid blue;
+    border-radius: 90px, 90px, 90px;
+    width: 200px;
+    height: 50px;
+    font-family:sans-serif;
+    text-align:center;
+}
+.popa:hover{
+    background-color: blue;
+    font-size: large;
+    transform: translateX(160px) translateY(0px);
+    transition: 3s ease-in;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.w::after {
+    content: url("");
+    height: 30px;
+    width: 40px;
+    display: inline-block;
+}
+.eshkere {
+    text-align: center;
+    background-color: #0EB277;
+}
+.photo {
+    text-align: center;
+}
